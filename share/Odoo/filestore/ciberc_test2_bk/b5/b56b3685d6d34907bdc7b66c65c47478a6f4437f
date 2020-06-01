@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180719T162948Z - 33252@CIB-GUA-QA-RRHH
+DTSTART:20180719T163000Z
+DTEND:20180719T164500Z
+ATTENDEE:MAILTO:rosario.mazariegos@ciberc.com
+ATTENDEE:MAILTO:veronica.santos@ciberc.com
+ATTENDEE:MAILTO:joselinnegomez@gmail.com
+ATTENDEE:MAILTO:yomara2002@hotmail.com
+CREATED:20180719T162948Z
+DESCRIPTION:Estimados Esta reunión es para entrevista Administrativa con e
+ l Señor David Gomez.\nGracias por confirmar asistencia.\n\nSaludos
+LOCATION:Skype
+SUMMARY:Entrevista administrativa David Gomez
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:15 Minute(s)
+TRIGGER;related=START:PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

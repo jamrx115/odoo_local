@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180903T204750Z - 65917@CIBNAPVMWEBRRHH
+DTSTART:20180903T213000Z
+DTEND:20180903T214500Z
+ATTENDEE:MAILTO:david.gomez@ciberc.com
+ATTENDEE:MAILTO:vbetyschalv@gmail.com
+CREATED:20180903T204750Z
+DESCRIPTION:Estimada Verónica\,\n\nTe confirmo nuestra entrevista administ
+ rativa.\n\nTe agradezco el tiempo e interés en la misma.\n\nsaludos! 
+LOCATION:Webex
+SUMMARY:Entrevista Administrativa/Reclutamiento IT
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:15 Minute(s)
+TRIGGER;related=START:PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

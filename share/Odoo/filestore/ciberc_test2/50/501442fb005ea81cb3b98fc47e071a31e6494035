@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180903T185832Z - 27842@CIBNAPVMWEBRRHH
+DTSTART:20180903T203000Z
+DTEND:20180903T204500Z
+ATTENDEE:MAILTO:rosario.mazariegos@ciberc.com
+ATTENDEE:MAILTO:m.mazariegos@outlook.com
+CREATED:20180903T185832Z
+DESCRIPTION:Estimada Maria:\nBuenas tardes un cordial saludo le estamos inv
+ itando a un entrevista administrativa.\nPor favor confirmar si asistencia.
+ \n\nMil gracias.
+SUMMARY:Rosana's Application
+END:VEVENT
+END:VCALENDAR

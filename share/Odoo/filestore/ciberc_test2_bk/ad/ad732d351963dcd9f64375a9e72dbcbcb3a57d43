@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180706T110923Z - 22350@CIB-GUA-QA-RRHH
+DTSTART:20180706T140000Z
+DTEND:20180706T143000Z
+ATTENDEE:MAILTO:david.gomez@ciberc.com
+ATTENDEE:MAILTO:veronica.santos@ciberc.com
+CREATED:20180706T110923Z
+DESCRIPTION:Entrevista Administrativa con la señorita  Maria Mazariegos-Te
+ am Leader SP aplico para Colombia.\nGracias por su asistencia.
+LOCATION:Skype
+SUMMARY:Entrevista Administrativa con  Maria Mazariegos-Team Leader SP
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:30 Minute(s)
+TRIGGER;related=START:PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

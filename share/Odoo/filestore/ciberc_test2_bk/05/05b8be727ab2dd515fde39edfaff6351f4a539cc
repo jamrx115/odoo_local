@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180403T160543Z - 5110@ip-172-31-43-252
+DTSTART:20180327T161500Z
+DTEND:20180327T180000Z
+ATTENDEE:MAILTO:diego.coral@ciberc.com
+ATTENDEE:MAILTO:christyan.silva@ciberc.com
+ATTENDEE:MAILTO:santiago.jurado@ciberc.com
+CREATED:20180403T160543Z
+DESCRIPTION:Revisión pendiente instalación placas para ODF en Carcelén
+SUMMARY:Revisión instalaciones y materiales  Nodo de Carcelén
+END:VEVENT
+END:VCALENDAR

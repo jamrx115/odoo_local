@@ -1,0 +1,181 @@
+
+.navbar-inverse-komnas {
+  background-color: #81b900;
+  border-color: #5d8600;
+}
+.navbar-inverse-komwil {
+  background-color: #ffb902;
+  border-color: #ce9500;
+}
+.navbar-inverse-komda {
+  background-color: #ffb902;
+  border-color: #ce9500;
+}
+.navbar-inverse-bumn {
+  background-color: #f44e24;
+  border-color: #da350b;
+}
+.navbar-inverse-ukm {
+  background-color: #01a4ef;
+  border-color: #0181bc;
+}
+.o_web_client .odoo .oe_loading {
+  background-color: #517400 !important;
+  top: inherit;
+  bottom: 0;
+  right: 0;
+  padding: 5px 50px;
+  border-radius: 0 !important;
+  opacity: 0.8;
+}
+.ul_toggle_leftmenu {
+  padding-left: 0px;
+  list-style: outside none none;
+  list-style-type: none;
+  list-style-image: none;
+  list-style-position: outside;
+  margin-bottom: 0px !important;
+  max-width: 300px;
+}
+.toggle_leftmenu {
+  color: #FFF !important;
+  padding: 14px 14px;
+}
+.toggle_leftmenu:hover {
+  color: #FFF !important;
+  cursor: pointer;
+  background-color: #303671;
+}
+.odoo .oe_leftbar .oe_secondary_menus_container {
+  font-family: Ubuntu;
+}
+.odoo .oe_secondary_menu_section {
+  color: #728FCC;
+}
+.odoo .oe_secondary_menu_section > .oe_menu_leaf {
+  color: #728FCC;
+}
+.odoo .nav-pills > li.active > a,
+.odoo a.list-group-item.active > a {
+  background-color: #728FCC !important;
+}
+.odoo .oe_leftbar {
+  background: #ffffff none repeat scroll 0 0 !important;
+}
+.odoo .badge {
+  background-color: #728FCC;
+}
+#oe_main_menu_navbar {
+  -webkit-box-shadow: 0px 0px 8px #666666;
+  box-shadow: 0px 0px 8px #666666;
+  border: none;
+}
+#oe_main_menu_navbar .navbar-collapse {
+  padding-right: 16px;
+  padding-left: 16px;
+}
+#oe_main_menu_navbar li a,
+.navbar-nav li a,
+#oe_main_menu_navbar li button,
+.navbar-nav li button {
+  font-size: 14px !important;
+  padding: 14px 10px !important;
+  margin-top: 0 !important;
+  line-height: 21px !important;
+}
+#oe_main_menu_navbar .dropdown-menu li a,
+.navbar-nav .dropdown-menu li a,
+#oe_main_menu_navbar .dropdown-menu li button,
+.navbar-nav .dropdown-menu li button {
+  padding: 4px 10px !important;
+  font-size: 13px !important;
+}
+#oe_main_menu_navbar .o_planner_systray > .progress {
+  margin-top: 18px !important;
+}
+.o_form_view .o_form_sheet_bg .o_form_sheet {
+  max-width: 90% !important;
+}
+.o_form_view .o_form_sheet_bg .o_form_field.o_form_field_many2one .o_external_button {
+  padding: 0;
+  margin-left: 2px;
+  font-size: 19px;
+  color: #728FCC;
+  border: none;
+  background-color: transparent;
+}
+.o_form_view .o_form_sheet_bg .o_form_field.o_form_field_many2one .o_external_button:hover {
+  background-color: transparent;
+}
+.o_form_view .o_form_sheet_bg .o_form_required.o_form_input,
+.o_form_view .o_form_sheet_bg .o_form_required .o_form_input,
+.o_form_view .o_form_sheet_bg .o_form_required.o_form_textarea,
+.o_form_view .o_form_sheet_bg .o_form_required .o_form_textarea {
+  background-color: #B7C5E5;
+}
+.o_form_view .o_form_sheet_bg .oe_button_box .oe_stat_button .o_button_icon {
+  color: #728FCC;
+}
+.o_form_view .o_form_sheet_bg .oe_button_box .oe_stat_button .o_stat_info .o_stat_value {
+  color: #4268b7 !important;
+}
+.o_web_client .o_main .o_sub_menu .o_sub_menu_content .oe_secondary_menu .oe_secondary_menu_section {
+  color: #3F5C99;
+}
+a {
+  color: #3F5C99;
+}
+a:hover {
+  color: #385187;
+}
+.o_control_panel .breadcrumb {
+  font-size: 18px;
+  background-color: transparent;
+  margin: 0px;
+}
+.o_control_panel .breadcrumb > li > a {
+  color: #4268b7 !important;
+  cursor: pointer;
+}
+.o_control_panel .breadcrumb > li > a:hover {
+  color: #2b4477 !important;
+  text-decoration: none;
+}
+.o_form_view .o_form_sheet_bg .o_horizontal_separator {
+  color: #728FCC;
+}
+.o_form_view .o_form_sheet_bg li.oe_active,
+ul.oe_form_status li.oe_active {
+  background-color: #5f7cb9 !important;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#859ed3), to(#395a9f)) !important;
+  background-image: -webkit-linear-gradient(top, #859ed3, #395a9f) !important;
+  background-image: -moz-linear-gradient(top, #859ed3, #395a9f) !important;
+  background-image: -ms-linear-gradient(top, #859ed3, #395a9f) !important;
+  background-image: -o-linear-gradient(top, #859ed3, #395a9f) !important;
+  background-image: linear-gradient(to bottom, #859ed3, #395a9f) !important;
+}
+.o_form_view .o_form_sheet_bg li.oe_active > .arrow span,
+ul.oe_form_status li.oe_active > .arrow span {
+  background-color: #395a9f !important;
+  background: -moz-linear-gradient(135deg, #395a9f, #859ed3) !important;
+  background: -o-linear-gradient(135deg, #859ed3, #395a9f) !important;
+  background: -webkit-gradient(linear, left top, right bottom, from(#859ed3), to(#395a9f)) !important;
+  background: -ms-linear-gradient(top, #859ed3, #395a9f) !important;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .oe-view-manager-view-kanban,
+  .oe-view-manager-view-form,
+  .oe-view-manager-view-list,
+  .oe-view-manager-view-calendar,
+  .oe-view-manager-view-pivot,
+  .oe-view-manager-view-graph {
+    width: 100% !important;
+  }
+  .modal .modal-content .modal-body .oe-view-manager-content {
+    position: static;
+    height: 400px;
+  }
+  .oe-view-manager-view-sales_team_dashboard {
+    width: 100%;
+  }
+}

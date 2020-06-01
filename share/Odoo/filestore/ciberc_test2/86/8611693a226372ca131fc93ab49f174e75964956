@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180628T154752Z - 14237@CIB-GUA-QA-RRHH
+DTSTART:20180627T190000Z
+DTEND:20180628T201500Z
+ATTENDEE:MAILTO:yomara.lima@ciberc.com
+ATTENDEE:MAILTO:david.gomez@ciberc.com
+ATTENDEE:MAILTO:veronica.santos@ciberc.com
+CREATED:20180628T154752Z
+DESCRIPTION:Este es un Proceso de Prueba\, por favor validar si les aparece
+  en su calendario Odoo la entrevista.\nSi les llego el correo de invitaci
+ ón\nSe le Asigno el FO 20 a este proceso\, por favor\, revisar los cambio
+ s que se solicitaron a esta entrevista.\nComo la opcion de agregar anotaci
+ ones del entrevistador y si funciona\, mil gracias.
+SUMMARY:Entrevista Maria Mazariegos -Asistente de Compras
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:15 Minute(s)
+TRIGGER;related=START:PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

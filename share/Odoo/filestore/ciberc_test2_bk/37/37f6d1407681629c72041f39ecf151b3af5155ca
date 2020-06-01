@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180719T161815Z - 49188@CIB-GUA-QA-RRHH
+DTSTART:20180719T163000Z
+DTEND:20180719T164500Z
+ATTENDEE:MAILTO:david.gomez@ciberc.com
+ATTENDEE:MAILTO:yomara.lima@ciberc.com
+ATTENDEE:MAILTO:rosario.mazariegos@ciberc.com
+ATTENDEE:MAILTO:jenny.rodriguez@ciberc.com
+ATTENDEE:MAILTO:veronica.santos@ciberc.com
+CREATED:20180719T161815Z
+DESCRIPTION:A continuación le envío agendada la reunión para hoy....
+SUMMARY:Entrevista
+END:VEVENT
+END:VCALENDAR

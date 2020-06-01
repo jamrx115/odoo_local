@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180626T205940Z - 66181@CIB-GUA-QA-RRHH
+DTSTART:20180627T205907Z
+DTEND:20180627T205907Z
+ATTENDEE:MAILTO:rosario.mazariegos@ciberc.com
+ATTENDEE:MAILTO:orengifo@alltic.co
+CREATED:20180626T205940Z
+DESCRIPTION:Estimada Yomara\, el dia lunes se va trabajar .......\nx\nx\nx\
+ nx\nx\nx\nx\nx\nx\nxx
+SUMMARY:Reunión con candidato para el puesto ...
+END:VEVENT
+END:VCALENDAR

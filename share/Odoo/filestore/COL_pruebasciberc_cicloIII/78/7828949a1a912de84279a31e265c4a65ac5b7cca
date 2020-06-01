@@ -1,0 +1,14 @@
+
+/* Copyright 2017 Tecnativa - Jairo Llopis
+ * License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl). */
+.o_website_form_builder .o_required > label::after {
+  content: '*';
+  color: #d9534f;
+}
+.o_website_form_builder .form-field.css_non_editable_mode_hidden {
+  opacity: 0.6;
+}
+body .modal.o_website_modal textarea.form-control,
+body .modal.o_website_modal select[multiple].form-control {
+  height: auto;
+}

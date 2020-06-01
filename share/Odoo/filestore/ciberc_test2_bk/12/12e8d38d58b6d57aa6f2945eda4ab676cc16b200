@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180630T015238Z - 14518@CIB-GUA-QA-RRHH
+DTSTART:20180630T020000Z
+DTEND:20180701T230000Z
+ATTENDEE:MAILTO:david.gomez@ciberc.com
+ATTENDEE:MAILTO:yomara.lima@ciberc.com
+ATTENDEE:MAILTO:rosario.mazariegos@ciberc.com
+ATTENDEE:MAILTO:veronica.santos@ciberc.com
+CREATED:20180630T015238Z
+DESCRIPTION:Buenas tardes\, un gusto saludarles.\nLes comparto que  esta es
+  una prueba.\nEsta es un cita para  programar citas de entrevistas a Perso
+ nal Ciberc.\nLa invitación a la entrevista de Candidato se debe realizar 
+ por correo outlook.\no si van asignar un test de Evaluaciones desde Encues
+ tas clic en enviar invitación por email.\n\nsaludos \nRM
+LOCATION:Skype
+SUMMARY:Entrevista Técnica David Gomez
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:15 Minute(s)
+TRIGGER;related=START:PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

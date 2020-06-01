@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180620T223116Z - 78350@CIB-GUA-QA-RRHH
+DTSTART:20180621T150000Z
+DTEND:20180622T210000Z
+ATTENDEE:MAILTO:david.gomez@ciberc.com
+ATTENDEE:MAILTO:yomara.lima@ciberc.com
+ATTENDEE:MAILTO:veronica.santos@ciberc.com
+CREATED:20180620T223116Z
+DESCRIPTION:Necesitamos reunirnos con usted para realizar Entrevista vía S
+ kype  esta es una entrevista administrativa.\nGracias por confirmar su asi
+ stencia.
+LOCATION:Guatemala Oficina
+SUMMARY:Analista Talento Humano/Yomara Lima
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:15 Minute(s)
+TRIGGER;related=START:PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

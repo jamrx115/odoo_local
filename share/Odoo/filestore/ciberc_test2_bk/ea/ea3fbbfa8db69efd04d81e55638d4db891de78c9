@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20180403T162002Z - 52704@ip-172-31-43-252
+DTSTART:20180402T131500Z
+DTEND:20180402T170000Z
+ATTENDEE:MAILTO:diego.coral@ciberc.com
+CREATED:20180403T162002Z
+DESCRIPTION:Gestión de permisos\, accesos\, coordinación y realización d
+ e trabajos para instalación de PDU en  Nodo de Bellavista
+LOCATION:Ciberc
+SUMMARY:Gestión instalación PDU Bellavista
+END:VEVENT
+END:VCALENDAR
